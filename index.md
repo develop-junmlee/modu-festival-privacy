@@ -1,5 +1,7 @@
 # 모두의 축제 개인정보처리방침
 
+한국어 · [English](#modu-festival-privacy-policy)
+
 시행일: 2026년 11월 20일
 
 '모두의 축제'(이하 "앱")는 전국 축제 정보를 보여 주는 앱입니다. 회원가입이나 로그인 없이 쓸 수 있습니다. 이 방침은 앱이 어떤 정보를, 왜, 얼마나 보관하는지 설명합니다.
@@ -58,3 +60,68 @@
 
 - 운영자: develop.junmlee
 - 이메일: develop.junmlee@gmail.com
+
+---
+
+# Modu Festival Privacy Policy
+
+[한국어](#모두의-축제-개인정보처리방침) · English
+
+Effective date: November 20, 2026
+
+Modu Festival ("the App") shows information about festivals across Korea. It can be used without signing up or logging in. This policy explains what information the App keeps, why, and for how long.
+
+## 1. Information we collect and why
+
+| Item | When | Purpose | Retention |
+|---|---|---|---|
+| Nickname, post text, time posted | When you post in "Stories" | To show festival stories to other users | Until the post is deleted or the service ends |
+| A hashed value derived from your IP address | When you post or report | To prevent spam and abuse (limits on repeated posts and reports in a short time) | Rate-limit records are deleted automatically after 1 day. The value stored with a report is kept as long as the report |
+| Report reason | When you report a post | To hide inappropriate posts | Deleted when the reported post is deleted |
+
+- We do not collect your name, phone number, email or any other information that directly identifies you.
+- We never store your raw IP address. It is converted into a value that cannot be reversed and used only for the purpose above.
+
+## 2. Information stored only on your device
+
+The following stays on your device and is never sent to our server. It is removed when you uninstall the App.
+
+- Your list of favorite festivals
+- The nickname you last used (to make the next post easier)
+
+## 3. Location
+
+- Your device location is used only when you tap the "My location" button on the map, and only if you allow it.
+- Location is used solely to show your position on the map on your screen. It is not sent to or stored on our server.
+- You can turn off location permission in your device settings at any time. All other features keep working.
+
+## 4. Third-party services
+
+The App uses the services below. Each processes information under its own privacy policy.
+
+| Service | Purpose | Information that may be processed |
+|---|---|---|
+| Supabase | Storing festival data and story posts (server in Seoul, Korea) | The information in section 1 |
+| NAVER Map (NAVER Cloud Platform) | Displaying maps | Map usage, device information, location (when "My location" is used) |
+| Google AdMob | Displaying ads | Advertising ID, device information, IP address, etc. (non-personalized ads are requested) |
+| Korea Tourism Organization TourAPI | Festival information | No user information is sent |
+
+- You can reset or delete your advertising ID in your device settings under Privacy > Ads.
+
+## 5. Your rights
+
+- You can ask us to delete a post you wrote. Because there are no accounts, we cannot verify authorship automatically. Email us the post text and the time it was posted, and we will delete it after checking.
+- To report an inappropriate post, use the "Report" feature in the App or contact us below.
+
+## 6. Children
+
+The App does not knowingly collect information from children under 14. Please do not include personal information in story posts.
+
+## 7. Changes to this policy
+
+If this policy changes, we will post a notice on this page 7 days before the change takes effect.
+
+## 8. Contact
+
+- Operator: develop.junmlee
+- Email: develop.junmlee@gmail.com
